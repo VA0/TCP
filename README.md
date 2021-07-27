@@ -17,4 +17,4 @@ Other way:
     move .so (or .dll on windows) libraries to main folder of project (TCP)
     make (to build TCP)
 	
-Added ready Windows Binaries/
+Added ready Windows Binaries.
