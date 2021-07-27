@@ -2,7 +2,7 @@
 
 **using SFML-2.5.1 library**
 
-![Screenshot](screenshot.png | width=100)
+![Screenshot](screenshot.png)
 
 Easy Setup:
 
